@@ -13,4 +13,7 @@ Continue investigate:
 
 vs2019\git - doesn't include and support? commit signing
 
-vscode\git - testing...
+vscode\git - works well
+	vscode\git uses system git installation. So if git\gnupg is configured and works, so does vscode.
+
+now trying to fool vs2019...
