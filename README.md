@@ -33,3 +33,6 @@ now about gnupg\gpg & git\gpg homedir conflict:
 	System git is on PATH environment variable... Will try...
 	
 	Dummy file change... only to activate commit...
+	
+	Ok - it's seems the hack is working.
+	git called gnupg\gpg that called gpg4win\pinentry... profit
